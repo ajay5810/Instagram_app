@@ -1,2 +1,2 @@
 This file is for andriod_sample test
-
+Test PollSCM feature
